@@ -1,0 +1,6 @@
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/khoiii-433/lab2.git
+[submodule "Lab2_2610p"]
+	path = Lab2_2610p
+	url = https://github.com/tankweeteck-ichat/Lab2_2610p.git
